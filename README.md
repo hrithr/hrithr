@@ -2,8 +2,8 @@
 - I'm interested in broadening my technological expertise and not simply staying within my comfort zone. 
 - I'm especially keen on exploring intelligent systems, XR, blockchain, and cybersecurity. 
 - These are the technologies I'm currently learning through school as well as on my own: fullstack development, computer vision, and conversational AI. 
-**
-Searching for summer 2022 tech/software internships.**
+
+**Searching for summer 2022 tech/software internships.**
 
 If you have a cool idea and need skilled algo developers, shoot an email to hrithikr@umich.edu and I'll respond ASAP.
 
