@@ -5,7 +5,7 @@
 
 **Searching for summer 2022 tech/software internships.**
 
-If you have a cool idea and need skilled algo developers, shoot an email to hrithikr@umich.edu and I'll respond ASAP.
+If you have a cool idea and want a skilled programmer with a strong mathematical background, shoot an email to hrithikr@umich.edu and I'll respond ASAP.
 
 <!---
 hrithr/hrithr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
