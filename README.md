@@ -1,6 +1,5 @@
-- Hi, I’m Hrithik Ravi! Currently a junior at the University of Michigan studying CS with a Math minor.
-- I'm interested in broadening my technological expertise and not simply staying within my comfort zone. 
-- I'm especially keen on exploring intelligent systems, XR, blockchain, and cybersecurity. 
+- Hi, I’m Hrithik Ravi (pronounced "rih-thick")! Currently a junior at the University of Michigan studying CS with a Math minor.
+- Interested in broadening my technological expertise and not simply staying within my comfort zone. I'm especially keen on exploring intelligent systems, XR, blockchain, and cybersecurity. 
 - These are the technologies I'm currently learning through school as well as on my own: fullstack development, computer vision, and conversational AI. 
 
 **Searching for summer 2022 tech/software internships.**
