@@ -1,11 +1,10 @@
-- Hi, I’m Hrithik Ravi (pronounced "rih-thick")!
-- UMich '23 - studying CS with a Math minor.
-- Interested in broadening my technological expertise and not simply staying within my comfort zone. I'm especially keen on exploring intelligent systems, XR, and cybersecurity. 
-- These are the technologies I'm currently learning through school as well as on my own: fullstack development, computer vision, and conversational AI. 
+- Hi, I’m Hrithik Ravi (pronounced "rih-thick" "ruh-vee")!
+- Interested in math, CS, and ML.
+- 2x AWS SDE intern.
+- UMich Transportation Research Institute- worked on computer vision for self-driving cars.
+- Currently pursuing theoretical ML research (implicit regularization)
 
-**Interning at Amazon for Summer 2022.**
-
-If you have a cool idea and want a skilled programmer with a strong mathematical background, shoot me an email at hrithikr@umich.edu and I'll respond ASAP.
+Email: hrithikr@umich.edu
 
 <!---
 hrithr/hrithr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
