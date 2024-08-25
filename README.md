@@ -1,4 +1,5 @@
-- Hi, I’m Hrithik Ravi (pronounced "rih-thick" "ruh-vee")!
+Hi, I’m Hrithik Ravi (pronounced "rih-thick" "ruh-vee")!
+
 - Interested in math, CS, and ML.
 - 2x AWS SDE intern.
 - UMich Transportation Research Institute- worked on computer vision for self-driving cars.
