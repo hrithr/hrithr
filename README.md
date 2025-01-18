@@ -1,9 +1,9 @@
 Hi, I’m Hrithik Ravi (pronounced "rih-thick" "ruh-vee")!
 
-- Interested in math, CS, and ML.
+- Interested in math, CS, intelligence.
+- First author at NeurIPS 2024 on theoretical machine learning (https://arxiv.org/abs/2411.01350)
 - 2x AWS SDE intern.
 - UMich Transportation Research Institute- worked on computer vision for self-driving cars.
-- Currently pursuing theoretical ML research (implicit regularization)
 
 Email: hrithikr@umich.edu
 
